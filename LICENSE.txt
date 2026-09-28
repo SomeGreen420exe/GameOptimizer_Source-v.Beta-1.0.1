@@ -1,0 +1,10 @@
+Copyright (c) 2026 SomeGreeen. All rights reserved.
+
+This repository contains source code for Game Optimizer. 
+The code is provided for viewing purposes only. 
+
+Strictly Prohibited:
+- Copying, modifying, or creating derivative works of this code.
+- Redistributing this software or its parts without express written permission.
+
+If you wish to contribute or suggest changes, please contact the author directly.
