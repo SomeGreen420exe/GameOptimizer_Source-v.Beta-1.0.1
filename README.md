@@ -39,9 +39,9 @@ If you just want to run the application without installing Python:
 
 ## 🛠️ Running from Source (For Developers / View-Only)
 
-If you have Python installed and want to inspect the source code locally:
+If you have Python installed and want to inspect the source code locally and run it:
 
 1. Clone or download the repository.
-2. Install the required dependencies:
+2. Install the required dependencies in your terminal:
    ```bash
    pip install customtkinter requests pillow moderngl numpy
