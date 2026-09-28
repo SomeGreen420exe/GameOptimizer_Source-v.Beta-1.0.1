@@ -48,3 +48,9 @@ If you have Python installed and want to inspect the source code locally and run
 3. Run the application via Python by executing the main script:
    ```bash
    python main.py
+
+## 📬 Support & Contact
+
+If something is not working properly or you want to suggest improvements, feel free to contact me:
+- **Email:** somegreen.booking@gmail.com
+- **Reddit:** u/SomeGreeen
