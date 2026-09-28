@@ -45,3 +45,6 @@ If you have Python installed and want to inspect the source code locally and run
 2. Install the required dependencies in your terminal:
    ```bash
    pip install customtkinter requests pillow moderngl numpy
+3. Run the application via Python by executing the main script:
+   ```bash
+   python main.py
